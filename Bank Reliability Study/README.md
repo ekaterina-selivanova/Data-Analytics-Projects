@@ -34,11 +34,11 @@
 
 1. [Изучение общей инфорации](#general_id),
 2. [Предобработка данных](#preprocessing_id),
-- 2.1.[Обработка пропусков](#preprocessing_one_id),
-- 2.2.[Замена типа данных](#preprocessing_two_id),
-- 2.3.[Удаление дубликатов](#preprocessing_three_id),
-- 2.4.[Лемматизация](#preprocessing_four_id),
-- 2.5.[Категоризация данных](#preprocessing_five_id),
+2.1.[Обработка пропусков](#preprocessing_one_id),
+2.2.[Замена типа данных](#preprocessing_two_id),
+2.3.[Удаление дубликатов](#preprocessing_three_id),
+2.4.[Лемматизация](#preprocessing_four_id),
+2.5.[Категоризация данных](#preprocessing_five_id),
 3. [Ответы на вопросы](#answers_id),
 4. [Общий вывод](#conclusion_id),
 5. [Чек-лист готовности проекта](#list_id)
